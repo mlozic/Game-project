@@ -1,0 +1,9 @@
+﻿  Gameplay.cpp
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(69,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(184,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(191,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(244,16): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(322,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(348,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\first_game\Timber_man_game\Timber_man\Gameplay.cpp(372,12): warning C4101: 'h': unreferenced local variable
+  Timber_man.vcxproj -> C:\Users\Lenovo\Desktop\first_game\Timber_man_game\x64\Debug\Timber_man.exe
